@@ -1,0 +1,33 @@
+Privacy Policy for PawPrint
+1. Introduction
+This Privacy Policy outlines how PawPrint ("the Bot") collects, uses, and protects any personal data you provide when interacting with the Bot on Discord. By using the Bot, you consent to the practices described in this policy.
+
+2. Information Collection
+PawPrint does not intentionally collect or store personal information. However, the following types of information may be processed by the Bot:
+
+Discord Usernames & IDs: Used to identify users for pet adoption and command execution.
+Server Information: The Bot may store minimal server data for tracking the state of virtual pets (e.g., pet names, species, hunger, happiness, and bond levels).
+3. Use of Information
+The data collected is used exclusively to provide the core functionalities of the Bot:
+
+To manage virtual pets (adoption, feeding, playing, etc.).
+To handle command execution and responses.
+To store and track pet data for individual users or servers.
+The Bot does not share, sell, or distribute your data to third parties.
+
+4. Data Retention
+Information about your pet (such as pet status, commands, and interactions) is stored only while the pet is active. Once you unadopt or the pet leaves due to low happiness or hunger, this information is deleted. No long-term data retention is applied.
+
+5. Third-Party Services
+PawPrint uses Google Generative AI via the Gemini API to analyze certain user inputs (like food health checks and pet behavior). No personal or sensitive user data is shared with third-party services. The Bot only sends queries related to the pet's health and behavior, without including user-specific information.
+
+6. Data Security
+PawPrint employs appropriate technical measures to protect the minimal data it processes. Since the Bot runs on Discord servers, we rely on Discord's security practices to ensure your data remains secure.
+
+7. User Control
+As a user, you have full control over the data the Bot stores. You can:
+
+Unadopt your pet to erase any stored data related to that pet.
+Leave the server to stop any further interactions or data processing by the Bot.
+8. Changes to This Policy
+This Privacy Policy may be updated from time to time. Any changes will be posted in the Bot's repository or communicated in the relevant Discord servers.
